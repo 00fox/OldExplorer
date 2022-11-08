@@ -8,5 +8,5 @@
 *.tlog
 *.res
 *.pdb
-*.zip
-*.exe
+OldExplorer.zip
+Release/OldExplorer.exe
