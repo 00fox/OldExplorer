@@ -10,3 +10,7 @@
 *.pdb
 OldExplorer.zip
 Release/OldExplorer.exe
+*.lock
+.vs/OldExplorer/v17/.suo
+.vs/OldExplorer/v17/Browse.VC.db
+*.vsidx
